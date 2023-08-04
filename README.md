@@ -1,2 +1,2 @@
-# ML_Machine-Learning
-# DL_Deep-Learning
+# ML_Machine-Learning_study
+# DL_Deep-Learning_study
